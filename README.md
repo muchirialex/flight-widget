@@ -1,5 +1,4 @@
 # flight-widget-vanilla-javascript
-A Flight widget made in vanilla JavaScript just for fun!
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
@@ -8,7 +7,7 @@ A Flight widget made in vanilla JavaScript just for fun!
   </a>
 </p>
 
-> Amazon redesign with a modern UI, complete E-Commerce functionality including Payment Processing (Stripe API) and User Authentication (Firebase).
+> A Flight widget made in vanilla JavaScript just for fun!.
 
 ## Author
 
