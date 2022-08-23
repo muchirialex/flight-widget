@@ -9,6 +9,8 @@
 
 > A Flight widget made in vanilla JavaScript just for fun!.
 
+![alt text](https://muchirialex.me/uploads/flight-widget.gif)
+
 ## Author
 
 👤 **Alex Karoki**
